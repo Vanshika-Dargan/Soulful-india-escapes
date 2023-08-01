@@ -1,0 +1,30 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family: 'Josefin Sans', sans-serif;}
+
+body{
+    overflow-x:hidden;
+}
+
+  /* Custom CSS for the carousel container */
+  #carouselExampleDark {
+    width: 99vw; /* 100% of the viewport width */
+    height: 80vh; /* 80% of the viewport height */
+    overflow: hidden; /* Hide any overflowing content inside the carousel */
+  }
+/* Custom CSS for the carousel images to make them smaller */
+#carouselExampleDark .carousel-inner img {
+    max-height: 80vh; /* Set the maximum height for the images */
+    width: auto; /* Automatically adjust the width based on the aspect ratio */
+  }
+
+  #carouselExampleDark .carousel-caption {
+    color: white; /* Set the text color to white */
+  }
+  .container-fluid {
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+  .small-img {
+    max-width:100% !important;/* Adjust the width as per your requirement */
+    height: 500px !important; 
+  }
+
+
