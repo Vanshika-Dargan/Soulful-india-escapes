@@ -1,5 +1,5 @@
 
-# Project Title
+# Soulful-India-Escapes
 
 A travel agency website for booking travel plans to explore Indian cities. 
 
